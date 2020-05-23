@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Apple Pay Detector",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "apple-pay-detector",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Detects if a website is looking for Apple Pay",
+    "description": "The description of the application"
+  }
+}

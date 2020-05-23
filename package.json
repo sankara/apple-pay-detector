@@ -1,0 +1,12 @@
+{
+  "name": "Apple-Pay-Detector",
+  "version": "0.0.1",
+  "description": "Detects if a website is looking for Apple Pay",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}
